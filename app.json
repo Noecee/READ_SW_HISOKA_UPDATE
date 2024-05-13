@@ -1,0 +1,12 @@
+{
+  "name": "wil",
+  "description": "whatsap build with nodejs",
+  "repository": "https://github.com/Noecee/ICC-6285894463278",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
